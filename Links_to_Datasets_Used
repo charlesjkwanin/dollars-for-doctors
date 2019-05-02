@@ -3,3 +3,7 @@
 # Open Payments Data Set - https://openpaymentsdata.cms.gov/browse
 # Medicare Provider and Utilization Data (Prescriptions data set) - https://data.cms.gov/Medicare-Part-D/Medicare-Provider-Utilization-and-Payment-Data-201/3z4d-vmhm
 # Drugs, Prices, Manufacturers Data - https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Information-on-Prescription-Drugs/Downloads/Medicare_PartD_Drug_Spending_Data.zip
+
+# Note: The Open Payments Data Set and Medicare Provider and Utilization Data provide data on calendar years 2013-2017 (as of 
+# writing this post). For our purposes, and to make the data more manageable and, we limited our use of the data sets to the year
+# 2016.
